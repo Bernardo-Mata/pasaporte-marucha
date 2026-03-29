@@ -1,0 +1,21 @@
+*node_modules/
+*.log
+dist/
+.env
+.DS_Store
+.idea/
+.vscode/
+coverage/
+*.tsbuildinfo
+# Ignore build output
+build/
+# Ignore test output
+test-output/
+# Ignore temporary files
+*.tmp
+# Ignore OS-specific files
+Thumbs.db
+Desktop.ini
+# Ignore IDE-specific files
+*.suo
+*.user
