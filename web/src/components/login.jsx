@@ -129,7 +129,7 @@ function Login() {
           </div>
 
           <p className="pt-3 text-center text-[10px] uppercase tracking-[0.08em] text-[#565444] sm:text-[11px] md:pt-4 md:text-[14px]">
-            © 2024 The Curated Chronicle
+            © creado en 2026
             <br className="sm:hidden" />
             <span className="hidden sm:inline"> · </span>
             EST. Global Protocol
